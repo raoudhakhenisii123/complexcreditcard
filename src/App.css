@@ -1,0 +1,40 @@
+.credit-card{
+background-color: rgb(10, 32, 107);
+margin :  25px;
+padding: 15px;
+width: 350px;
+border-radius: 20px;
+height:250px ;
+}
+ .chip{ 
+  width :35px;
+  height: 35px;
+  background-color: #baaf7d;
+  border-radius: 10px;
+}
+.class-nameCompany{
+  text-align: right;
+  color: white;
+
+}
+.logo > img{
+  border-radius: 4px;
+  padding: 5px;
+  width: 90px;
+  padding-bottom: 30px;
+  float:-80px;
+}
+.classnom{
+  color:white;
+}
+.ValidThru{
+  color:white;
+}
+.class-text{
+display:flex;
+align-items: center;
+justify-content: space-around;
+
+
+
+}
